@@ -5,13 +5,19 @@
 
 2. Run this command(creates the mirror list for apps-repos)
 ```bash
-sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+sudo dnf update -y
 ```
 3. Run this command:
 ```bash
-sudo pacman -Syy
+sudo dnf upgrade -y
 ```
 
+
+## Setup
+
+| USB-Method | Virtual Machine |
+|------------|-----------------|
+| [USB-Instuctions](./READMEs/USB_README.md) | [VM-Instructions](./READMEs/VM_README.md)|
 
 
 
