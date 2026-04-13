@@ -2,7 +2,7 @@
 ## Setup
 | USB-Method | Virtual Machine | Bash Commands |
 |------------|-----------------|---------------|
-| [USB-Instuctions](#usb-live-demo-instructions) | [VM-Instructions](#virtual-machine-instructions) | [Bash Commands List](#bash-command-examples)
+| [USB-Instuctions](./READMEs/USB_README.md) | [VM-Instructions](./READMEs/VM_README.md) | [Bash Commands List](#bash-command-examples)
 
 
 
