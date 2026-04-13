@@ -1,2 +1,8 @@
 # USB Live Demo Instructions:
-1. Connect to `AirRowdy`
+1. Plug in USB into computer
+2. Reboot into BIOS and make the USB the first boot option
+
+Sometimes you will need to enable `Boot from USB` option in BIOS
+3. Save and Reboot, it will boot into the USB and you will select the first option `Start Fedora-KDE-Desktop-Live`
+4. Connect to `AirRowdy`
+
