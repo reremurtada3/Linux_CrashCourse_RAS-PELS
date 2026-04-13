@@ -5,7 +5,7 @@
 ### Download the Fedora iso file
 **THIS DOWNLOAD IS FOR x86_64-BASED CPUS**
 
-[Download ARM Fedora](https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso)
+[Download x85_x64 Fedora (Most Common)](https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/x86_64/iso/Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso)
 
 **THIS DOWNLOAD IS FOR ARM-BASED CPUS**
 
