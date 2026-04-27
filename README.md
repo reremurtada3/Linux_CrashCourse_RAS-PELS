@@ -1,4 +1,4 @@
-# Linux Crashcourse Part 2!!
+# Linux Crashcourse Part 3!!
 ## Operating System Setup
 
 | USB-Method | Virtual Machine |
