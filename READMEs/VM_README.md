@@ -11,7 +11,7 @@
 
 [Download ARM Fedora](https://download.fedoraproject.org/pub/fedora/linux/releases/43/KDE/aarch64/iso/Fedora-KDE-Desktop-Live-43-1.6.aarch64.iso)
 
-### VirtualBox Settings
+### VirtualBox Linux Settings (Minimum Requirements):
 | Base Memory | Number of CPUS | 3D Acceleration |
 |-------------|----------------|-----------------|
 | `4096 Mb` | `3 proccesors` | `ON` |
