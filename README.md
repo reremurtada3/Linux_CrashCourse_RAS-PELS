@@ -3,7 +3,7 @@
 
 | USB-Method | Virtual Machine |
 |------------|-----------------|
-| [USB-Instuctions](./READMEs/USB_README.mdmd) | [VM-Instructions](./READMEs/VM_README.md) |
+| [USB-Instuctions](./READMEs/USB_README.md) | [VM-Instructions](./READMEs/VM_README.md) |
 
 ## Tools for this Course
 
