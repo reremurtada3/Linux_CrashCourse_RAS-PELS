@@ -7,8 +7,8 @@
 
 ## Tools for this Course
 
-| Fastfetch | Starship |
-|-----------|----------|
+| Fastfetch | Starship | Waybar |
+|-----------|----------|--------|
 | [Fastfetch Instructions](./READMEs/FASTFETCH_README.md) | [Starship Instructions](./READMEs/STARSHIP_README.md) |
 ## Bash Command Cheat Sheet:
 ![Bash Commands](./READMEs/bashCommands.jpg)
