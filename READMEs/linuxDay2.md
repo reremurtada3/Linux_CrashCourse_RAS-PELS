@@ -3,7 +3,7 @@
 
 | You are here | Part 3 |
 |---------------|--------|
-| [Day 2](./READMEs/VM_README.md) | [Day 3](./READMEs/USB_README.md) | 
+| [Day 2](./linuxDay2.md) | [Day 3](./linuxDay3.md) | 
 
 
 ## Operating System Setup
