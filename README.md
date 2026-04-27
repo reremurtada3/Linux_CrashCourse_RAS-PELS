@@ -1,9 +1,9 @@
 # Linux Crashcourse!!
 ## Crashcourse parts
 
-| Part 1 | Part 2 | Part 3 |
-|-------|---------|--------|
-| [Day 1](./READMEs/USB_README.md) | [Day 2](./READMEs/VM_README.md) | [Day 3](./READMEs/USB_README.md) | 
+| Part 2 | Part 3 |
+|---------|--------|
+| [Day 2](./READMEs/linuxDay2.md) | [Day 3](./READMEs/linuxDay3.md) | 
 
 
 
