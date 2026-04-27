@@ -1,5 +1,4 @@
-## Waybar Installation Process
-
+## Waybar Tutorial
 #### Description: This is a step-by-step guide on how to install and set up Waybar on your system. Waybar Highly customizable Wayland bar for Sway and Wlroots based compositors.
 
 ### 1. Install Waybar into system

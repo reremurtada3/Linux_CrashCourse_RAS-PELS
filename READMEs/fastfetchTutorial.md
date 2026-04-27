@@ -1,4 +1,4 @@
-## Fastfetch Installation Process
+## Fastfetch Tutorial
 
 #### Description: This is a step-by-step guide on how to install and set up Fastfetch on your system. Fastfetch is a fast and customizable system information tool that displays various details about your system in a visually appealing way.
 
