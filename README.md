@@ -9,7 +9,7 @@
 
 | Fastfetch | Starship | Waybar |
 |-----------|----------|--------|
-| [Fastfetch Instructions](./READMEs/FASTFETCH_README.md) | [Starship Instructions](./READMEs/STARSHIP_README.md) |
+| [Fastfetch Instructions](./READMEs/FASTFETCH_README.md) | [Starship Instructions](./READMEs/STARSHIP_README.md) | [Starship Instructions](./READMEs/waybarInstructions.md) |
 ## Bash Command Cheat Sheet:
 ![Bash Commands](./READMEs/bashCommands.jpg)
 
