@@ -27,7 +27,3 @@ starship preset catppuccin-powerline -o ~/.config/starship.toml
 mkdir -p ~/.local/share/fonts/FiraCode && curl -Lo /tmp/FiraCode.zip https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip && unzip -o /tmp/FiraCode.zip -d ~/.local/share/fonts/FiraCode && fc-cache -fv
 ```
 
-
-
-
-mkdir -p ~/.local/share/fonts/FiraCode && curl -Lo /tmp/FiraCode.zip https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CommitMono.zip && unzip -o /tmp/FiraCode.zip -d ~/.local/share/fonts/FiraCode && fc-cache -fv
